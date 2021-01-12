@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\ALI HAIDER\source\repos\TETRIS NEW\TETRIS NEW\Main.cpp(96,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ALI HAIDER\source\repos\TETRIS NEW\TETRIS NEW\Main.cpp(96,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ALI HAIDER\source\repos\TETRIS NEW\TETRIS NEW\Main.cpp(114,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ALI HAIDER\source\repos\TETRIS NEW\TETRIS NEW\Main.cpp(114,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+sfml-graphics-s-d.lib(RenderStates.obj) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
