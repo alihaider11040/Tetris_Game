@@ -6,4 +6,4 @@ After a line filled up this will add 10 points to total score
 
 
 # DEMO:
-
+https://gifyu.com/image/FiM7
