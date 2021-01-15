@@ -6,4 +6,4 @@ After a line filled up this will add 10 points to total score
 
 
 # DEMO:
-<a href="https://gifyu.com/image/FiM7"><img src="https://s2.gifyu.com/images/tetris-gameplay.md.gif" alt="tetris-gameplay.gif" border="0" /></a>
+[url=https://gifyu.com/image/FiM7][img]https://s2.gifyu.com/images/tetris-gameplay.gif[/img][/url]
